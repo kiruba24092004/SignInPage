@@ -10,13 +10,6 @@ body {
   background: url("images/background.jpg") no-repeat center center/cover;
   background-size: cover;
   background-position: center;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-repeat: no-repeat;
-}
-
-
-  
   height: 100vh;
   color: white;
 }
@@ -147,5 +140,6 @@ body {
 .navbar ul li a:hover {
   color: #00c6ff;
 }
+
 
 
